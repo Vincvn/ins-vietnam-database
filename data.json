@@ -1,0 +1,153 @@
+{
+    "ins_codes": {
+      "100": {
+        "name": "Curcumin",
+        "description": "Chất tạo màu tự nhiên từ nghệ, an toàn ở mức cho phép.",
+        "usage_in_vietnam": "Bánh kẹo, nước giải khát, thực phẩm chế biến.",
+        "khong_an_toan": false
+      },
+      "102": {
+        "name": "Tartrazine",
+        "description": "Chất tạo màu tổng hợp, có thể gây dị ứng hoặc hiếu động ở trẻ.",
+        "usage_in_vietnam": "Kẹo, nước ngọt (hạn chế).",
+        "khong_an_toan": true
+      },
+      "110": {
+        "name": "Sunset Yellow FCF",
+        "description": "Chất tạo màu tổng hợp, liên quan đến phản ứng dị ứng.",
+        "usage_in_vietnam": "Bánh kẹo, nước giải khát (hạn chế).",
+        "khong_an_toan": true
+      },
+      "160a": {
+        "name": "Beta-Carotene (từ thực vật)",
+        "description": "Chất tạo màu tự nhiên, không gây hại.",
+        "usage_in_vietnam": "Sữa, nước trái cây, thực phẩm chế biến.",
+        "khong_an_toan": false
+      },
+      "210": {
+        "name": "Benzoic Acid",
+        "description": "Chất bảo quản, có thể gây kích ứng ở trẻ em nhạy cảm.",
+        "usage_in_vietnam": "Nước giải khát, thực phẩm chế biến.",
+        "khong_an_toan": true
+      },
+      "250": {
+        "name": "Sodium Nitrite",
+        "description": "Chất bảo quản, nguy cơ độc tính cao với trẻ em.",
+        "usage_in_vietnam": "Thịt chế biến, xúc xích.",
+        "khong_an_toan": true
+      },
+      "300": {
+        "name": "Ascorbic Acid (Vitamin C)",
+        "description": "Chất chống oxy hóa, an toàn và có lợi.",
+        "usage_in_vietnam": "Nước trái cây, thực phẩm bổ sung.",
+        "khong_an_toan": false
+      },
+      "322": {
+        "name": "Lecithin",
+        "description": "Chất nhũ hóa tự nhiên từ đậu nành hoặc lòng đỏ trứng, an toàn.",
+        "usage_in_vietnam": "Socola, bánh kẹo, margarine.",
+        "khong_an_toan": false
+      },
+      "330": {
+        "name": "Citric Acid",
+        "description": "Chất điều chỉnh độ axit, an toàn ở mức vừa phải.",
+        "usage_in_vietnam": "Nước ngọt, kẹo, mứt.",
+        "khong_an_toan": false
+      },
+      "407": {
+        "name": "Carrageenan",
+        "description": "Chất nhũ hóa và làm đặc tự nhiên từ rong biển, an toàn khi dùng đúng liều.",
+        "usage_in_vietnam": "Sữa, thạch, kem.",
+        "khong_an_toan": false
+      },
+      "412": {
+        "name": "Guar Gum",
+        "description": "Chất nhũ hóa và làm đặc tự nhiên, an toàn.",
+        "usage_in_vietnam": "Kem, sữa chua, nước sốt.",
+        "khong_an_toan": false
+      },
+      "415": {
+        "name": "Xanthan Gum",
+        "description": "Chất nhũ hóa và làm đặc, an toàn ở mức cho phép.",
+        "usage_in_vietnam": "Nước sốt, bánh mì, kem.",
+        "khong_an_toan": false
+      },
+      "432": {
+        "name": "Polyoxyethylene (20) Sorbitan Monolaurate (Polysorbate 20)",
+        "description": "Chất nhũ hóa tổng hợp, an toàn ở mức thấp, cần thận trọng với trẻ em.",
+        "usage_in_vietnam": "Kem, nước giải khát.",
+        "khong_an_toan": false
+      },
+      "433": {
+        "name": "Polyoxyethylene (20) Sorbitan Monooleate (Polysorbate 80)",
+        "description": "Chất nhũ hóa tổng hợp, an toàn ở mức cho phép, nhưng có thể gây khó chịu ở trẻ nhạy cảm.",
+        "usage_in_vietnam": "Kem, thực phẩm chế biến.",
+        "khong_an_toan": false
+      },
+      "435": {
+        "name": "Polyoxyethylene (20) Sorbitan Monostearate (Polysorbate 60)",
+        "description": "Chất nhũ hóa tổng hợp, an toàn ở mức thấp, cần theo dõi với trẻ em.",
+        "usage_in_vietnam": "Bánh ngọt, kem.",
+        "khong_an_toan": false
+      },
+      "440": {
+        "name": "Pectin",
+        "description": "Chất nhũ hóa và làm đặc tự nhiên từ trái cây, an toàn.",
+        "usage_in_vietnam": "Mứt, thạch, sữa chua.",
+        "khong_an_toan": false
+      },
+      "442": {
+        "name": "Ammonium Phosphatides",
+        "description": "Chất nhũ hóa tổng hợp, an toàn ở mức cho phép.",
+        "usage_in_vietnam": "Socola, thực phẩm chế biến.",
+        "khong_an_toan": false
+      },
+      "471": {
+        "name": "Mono- and Diglycerides of Fatty Acids",
+        "description": "Chất nhũ hóa tổng hợp, an toàn ở mức cho phép.",
+        "usage_in_vietnam": "Bánh mì, kem, margarine.",
+        "khong_an_toan": false
+      },
+      "472e": {
+        "name": "Diacetyltartaric Acid Esters of Mono- and Diglycerides (DATEM)",
+        "description": "Chất nhũ hóa tổng hợp, an toàn ở mức cho phép.",
+        "usage_in_vietnam": "Bánh mì, thực phẩm nướng.",
+        "khong_an_toan": false
+      },
+      "473": {
+        "name": "Sucrose Esters of Fatty Acids",
+        "description": "Chất nhũ hóa tổng hợp, an toàn ở mức cho phép.",
+        "usage_in_vietnam": "Kem, đồ uống.",
+        "khong_an_toan": false
+      },
+      "475": {
+        "name": "Polyglycerol Esters of Fatty Acids",
+        "description": "Chất nhũ hóa tổng hợp, an toàn khi dùng đúng liều.",
+        "usage_in_vietnam": "Kem, bánh ngọt, socola.",
+        "khong_an_toan": false
+      },
+      "491": {
+        "name": "Sorbitan Monostearate",
+        "description": "Chất nhũ hóa tổng hợp, an toàn ở mức cho phép.",
+        "usage_in_vietnam": "Bánh ngọt, kem.",
+        "khong_an_toan": false
+      },
+      "621": {
+        "name": "Monosodium Glutamate (MSG)",
+        "description": "Chất tăng hương vị, có thể gây đau đầu ở trẻ nhạy cảm.",
+        "usage_in_vietnam": "Mì ăn liền, đồ ăn nhanh.",
+        "khong_an_toan": true
+      },
+      "951": {
+        "name": "Aspartame",
+        "description": "Chất tạo ngọt nhân tạo, nguy cơ ảnh hưởng thần kinh ở trẻ em.",
+        "usage_in_vietnam": "Nước ngọt không đường, kẹo gum.",
+        "khong_an_toan": true
+      }
+    },
+    "notes": {
+      "source": "Dựa trên QCVN 4-11:2010/BYT (gián tiếp), Codex Alimentarius, và thông tin phổ biến tại Việt Nam.",
+      "date_updated": "2025-03-07",
+      "context": "Danh sách tối ưu với mã INS làm key, bao gồm các chất nhũ hóa phổ biến tại Việt Nam."
+    }
+  }

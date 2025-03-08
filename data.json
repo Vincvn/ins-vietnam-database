@@ -173,6 +173,36 @@
         "description": "Màu thực phẩm tự nhiên, có thể gây dị ứng ở một số trẻ.",
         "usage_in_vietnam": "Nước giải khát, kẹo, sữa chua.",
         "khong_an_toan": true
+      },
+      "296": {
+        "name": "Malic Acid",
+        "description": "Chất điều chỉnh độ axit, thường có trong trái cây.",
+        "usage_in_vietnam": "Nước giải khát, kẹo, thực phẩm chế biến.",
+        "khong_an_toan": false
+      },
+      "331": {
+        "name": "Sodium Citrates",
+        "description": "Chất điều chỉnh độ axit và chất nhũ hóa, an toàn khi sử dụng trong thực phẩm.",
+        "usage_in_vietnam": "Nước giải khát, sản phẩm từ sữa, thực phẩm chế biến.",
+        "khong_an_toan": false
+      },
+      "952": {
+        "name": "Cyclamic Acid và muối của nó (Cyclamates)",
+        "description": "Chất tạo ngọt nhân tạo, bị cấm ở một số quốc gia do lo ngại về sức khỏe. Bị cấm ở Mỹ - được cho phép tại EU và Châu Á",
+        "usage_in_vietnam": "Nước ngọt không đường, thực phẩm ít calo.",
+        "khong_an_toan": true
+      },
+      "955": {
+        "name": "Sucralose",
+        "description": "Chất tạo ngọt nhân tạo, an toàn theo FDA và EFSA nhưng có thể gây lo ngại nếu tiêu thụ nhiều.",
+        "usage_in_vietnam": "Nước ngọt không đường, bánh kẹo ít calo.",
+        "khong_an_toan": false
+      },
+      "202": {
+        "name": "Potassium Sorbate",
+        "description": "Chất bảo quản chống nấm mốc và vi khuẩn, an toàn khi sử dụng với liều lượng cho phép.",
+        "usage_in_vietnam": "Đồ hộp, sữa chua, bánh kẹo.",
+        "khong_an_toan": false
       }
     },
     "notes": {

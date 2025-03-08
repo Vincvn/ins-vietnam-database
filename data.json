@@ -143,6 +143,36 @@
         "description": "Chất tạo ngọt nhân tạo, nguy cơ ảnh hưởng thần kinh ở trẻ em.",
         "usage_in_vietnam": "Nước ngọt không đường, kẹo gum.",
         "khong_an_toan": true
+      },
+      "307b": {
+        "name": "Dipalmitoyl Ascorbyl",
+        "description": "Chất chống oxy hóa, an toàn trong thực phẩm.",
+        "usage_in_vietnam": "Thực phẩm chế biến, bánh kẹo.",
+        "khong_an_toan": false
+      },
+      "477": {
+        "name": "Propylene Glycol Esters of Fatty Acids",
+        "description": "Chất nhũ hóa, có thể gây rối loạn tiêu hóa nếu tiêu thụ quá mức.",
+        "usage_in_vietnam": "Bơ thực vật, kem, bánh kẹo.",
+        "khong_an_toan": false
+      },
+      "500": {
+        "name": "Sodium Hydrogen Carbonate (Baking Soda)",
+        "description": "Chất điều chỉnh độ axit, an toàn khi sử dụng trong thực phẩm.",
+        "usage_in_vietnam": "Bánh mì, bánh quy, thực phẩm nướng.",
+        "khong_an_toan": false
+      },
+      "476": {
+        "name": "Polyglycerol Polyricinoleate (PGPR)",
+        "description": "Chất nhũ hóa, được EFSA và FDA công nhận an toàn.",
+        "usage_in_vietnam": "Sô cô la, bơ thực vật.",
+        "khong_an_toan": false
+      },
+      "120": {
+        "name": "Cochineal, Carmine, Carminic Acid",
+        "description": "Màu thực phẩm tự nhiên, có thể gây dị ứng ở một số trẻ.",
+        "usage_in_vietnam": "Nước giải khát, kẹo, sữa chua.",
+        "khong_an_toan": true
       }
     },
     "notes": {

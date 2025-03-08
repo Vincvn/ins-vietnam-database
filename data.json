@@ -203,6 +203,12 @@
         "description": "Chất bảo quản chống nấm mốc và vi khuẩn, an toàn khi sử dụng với liều lượng cho phép.",
         "usage_in_vietnam": "Đồ hộp, sữa chua, bánh kẹo.",
         "khong_an_toan": false
+      },
+      "1404": {
+        "name": "Oxidized Starch",
+        "description": "Tinh bột biến tính được oxy hóa, dùng để tạo độ sánh và ổn định thực phẩm.",
+        "usage_in_vietnam": "Súp, nước sốt, thực phẩm chế biến.",
+        "khong_an_toan": false
       }
     },
     "notes": {
